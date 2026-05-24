@@ -26,6 +26,8 @@ common:
     url: https://www.hdsupply.com
   - type: Parent Company
     url: https://www.homedepot.com
+  - type: LLMsTxt
+    url: https://hdsupply.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

@@ -21,6 +21,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/hd-supply-holdings-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/hd-supply-holdings-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/hd-supply
   - type: Website

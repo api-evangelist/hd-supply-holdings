@@ -1,7 +1,9 @@
 ---
 title: No decision yet on HD Supply
 url: https://www.ishn.com/articles/86960-no-decision-yet-on-hd-supply
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"HD Supply Holdings" press release artificial intelligence'
 position: 3
 source: serpapi-google

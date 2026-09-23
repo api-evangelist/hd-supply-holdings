@@ -1,7 +1,9 @@
 ---
 title: Home Depot to buy back HD Supply in $8 bln deal
 url: https://www.reuters.com/business/home-depot-buy-back-hd-supply-8-bln-deal-2020-11-16/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"HD Supply Holdings" press release artificial intelligence'
 position: 4
 source: serpapi-google

@@ -39,10 +39,12 @@ tags:
   - Retail
   - Fortune 500
 created: '2024-12-03'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://hdsupply.com/press
+    type: Blog
   - type: VulnerabilityDisclosure
     url: security/hd-supply-holdings-vulnerability-disclosure.yml
   - type: DomainSecurity
